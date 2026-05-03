@@ -49,5 +49,10 @@
     ## ⚙️ Instalación y Uso
 
     1. Clonar el repositorio:
-    git clone [https://github.com/wgekko/
-    cd tu-repositorio
+    [git clone [https://github.com/wgekko/](https://github.com/wgekko/app_inflacion_ml.git)
+    cd tu-repositorio : https://github.com/wgekko/app_inflacion_ml
+
+
+    video demo 
+
+    
